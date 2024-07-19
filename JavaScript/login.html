@@ -1,0 +1,66 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="login.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="data">
+        <div class="logo">
+            <img src="photos/logo.png">
+        </div>
+        <div class="divForm">
+            <div class="container">
+                <div class="form-container sign-in-container">
+                    <div class="form">
+                        <h1>Ulogujte se</h1>
+                        <div>
+                            <input type="email" name="emailLogin" placeholder="Email">
+                        </div>
+                        <div>
+                            <input type="password" name="passwordLogin" placeholder="Lozinka">
+                        </div>
+                        <button class="buttonsLogInForm" id="buttonForLogin">Ulogujte se</button>
+                    </div>
+                </div>
+                <div class="form-container sign-up-container">
+                    <div class="form">
+                        <h1>Kreirajte nalog</h1>
+                        <input type="text" name="name" placeholder="Ime" required>
+                        <input type="text" name="last-name" placeholder="Prezime" required>
+                        <select name="rolls" required>
+                            <option selected disabled hidden>Izaberi rolu</option>
+                            <option value="Admin">Admin</option>
+                            <option value="Profesor">Profesor</option>
+                            <option value="Viewer">Posetioc</option>
+                        </select>
+                        <input type="email" name="emailSignup" placeholder="Email" required>
+                        <input type="password" name="passwordSignup" placeholder="Lozinka" required>
+                        <button class="buttonSignUpForm dugmeReg">Registrujte se</button>
+                    </div>
+                </div>
+
+                <div class="overlay-container">
+                    <div class="overlay">
+                        <div class="overlay-panel overlay-left">
+                            <h1>Prijavite se</h1>
+                            <button class="buttonLogin buttonDuh buttonsLogInForm">Prijavite se</button>
+                        </div>
+                        <div class="overlay-panel overlay-right">
+                            <h1>Registrujte se</h1>
+                            <button class="buttonSignUp buttonDuh buttonsLogInForm">Registrujte se</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="login.js"></script>
+</body>
+
+</html>

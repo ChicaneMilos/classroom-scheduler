@@ -1,0 +1,207 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="kalendar.css">
+  <title>Document</title>
+</head>
+
+<body>
+  <header>
+    <div class="headerTop">
+      <div class="logo" onclick="window.location='home.html'" style="cursor: pointer;">
+        <img src="photos/logo.png">
+      </div>
+      <div class="icon"></div>
+      <div class="userinfo">
+        <img class="user" src="photos/user.png"></img>
+        <div class="loggedUser"></div>
+        <img class="logout" src="photos/logout.png"></img>
+      </div>
+    </div>
+  </header>
+
+  <h1 class="amfiteatar-title"></h1>
+
+  <div class="popUp" style="display: none">
+    <div class="addForm" style="display: none;">
+      <div class="form">
+        <h2>Zakazivanje predavanja</h2>
+        <h3 class="clickedDisplayDate"></h3>
+
+        <div class="user-box">
+          <input class="class_name" type="text" required>
+          <label>Naziv predavanja</label>
+        </div>
+
+        <div class="user-box">
+          <input class="study_name" type="text" required>
+          <label>Naziv smera</label>
+        </div>
+
+        <div class="startTime">
+          <label>Vreme pocetka</label>
+          <input class="start_Time" type="time" required>
+        </div>
+
+        <div class="endTime">
+          <label>Vreme zavrsetka</label>
+          <input class="end_Time" type="time" required>
+        </div>
+
+        <div class="divForSendButton">
+          <button class="addSendButton">Send</button>
+          <button class="addCancelButton">Cancel</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="popUpQuestion" style="display: none;">
+      <div class="formQuestion" style="display: none;">
+        <h2>Da li ste sigurni da zelite obrisete dogadjaj?</h2>
+        <div class="buttonsForConfirm">
+          <button class="buttonYes">Da</button>
+          <button class="buttonNo">Ne</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="editForm" style="display: none;">
+      <div class="form">
+        <h2>Izmena predavanja</h2>
+        <h3></h3>
+
+        <div class="user-box">
+          <input class="edit_class_name" type="text" required>
+          <label>Naziv predavanja</label>
+        </div>
+
+        <div class="user-box">
+          <input class="edit_study_name" type="text" required>
+          <label>Naziv smera</label>
+        </div>
+
+        <div class="startTime">
+          <label>Vreme pocetka</label>
+          <input class="edit_start_Time" type="time" required>
+        </div>
+
+        <div class="endTime">
+          <label>Vreme zavrsetka</label>
+          <input class="edit_end_Time" type="time" required>
+        </div>
+
+        <div class="divEditButtons">
+          <button class="editSubmitButton">Izmeni</button>
+          <button class="editDeleteButton">Izbrisi</button>
+          <button class="editCancelButton">Odustani</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="calendar">
+      <div class="header">
+        <div class="month">January 2024</div>
+        <div class="btns">
+          <div class="btn today-btn">
+            <img src="photos/calendar.png">
+          </div>
+          <div class="btn prev-btn">
+            <img src="photos/left-arrow.png">
+          </div>
+          <div class="btn next-btn">
+            <img src="photos/right-arrow.png">
+          </div>
+        </div>
+      </div>
+      <div class="weekdays">
+        <div class="day">Sun</div>
+        <div class="day">Mon</div>
+        <div class="day">Tue</div>
+        <div class="day">Wed</div>
+        <div class="day">Thu</div>
+        <div class="day">Fri</div>
+        <div class="day">Sat</div>
+      </div>
+      <div class="days">
+      </div>
+    </div>
+  </div>
+
+  <div class="kalendar-container" style="display: none;">
+    <div class="vreme">
+      <div class="events"></div>
+      <div class="sati">8h</div>
+      <hr style="width: 100%;">
+    </div>
+    <div class="vreme">
+      <div class="events"></div>
+      <div class="sati">9h</div>
+      <hr style="width: 100%;">
+    </div>
+    <div class="vreme">
+      <div class="events"></div>
+      <div class="sati">10h</div>
+      <hr style="width: 100%;">
+    </div>
+    <div class="vreme">
+      <div class="events"></div>
+      <div class="sati">11h</div>
+      <hr style="width: 100%;">
+    </div>
+    <div class="vreme">
+      <div class="events"></div>
+      <div class="sati">12h</div>
+      <hr style="width: 100%;">
+    </div>
+    <div class="vreme">
+      <div class="events"></div>
+      <div class="sati">13h</div>
+      <hr style="width: 100%;">
+    </div>
+    <div class="vreme">
+      <div class="events"></div>
+      <div class="sati">14h</div>
+      <hr style="width: 100%;">
+    </div>
+    <div class="vreme">
+      <div class="events"></div>
+      <div class="sati">15h</div>
+      <hr style="width: 100%;">
+    </div>
+    <div class="vreme">
+      <div class="events"></div>
+      <div class="sati">16h</div>
+      <hr style="width: 100%;">
+    </div>
+    <div class="vreme">
+      <div class="events"></div>
+      <div class="sati">17h</div>
+      <hr style="width: 100%;">
+    </div>
+    <div class="vreme">
+      <div class="events"></div>
+      <div class="sati">18h</div>
+      <hr style="width: 100%;">
+    </div>
+    <div class="vreme">
+      <div class="events"></div>
+      <div class="sati">19h</div>
+      <hr style="width: 100%;">
+    </div>
+    <div class="vreme">
+      <div class="events"></div>
+      <div class="sati">20h</div>
+      <hr style="width: 100%;">
+    </div>
+    <button class="plus">+</button>
+  </div>
+  <div class="amfiteatar"></div>
+  </div>
+  <script src="kalendar.js" type="module"></script>
+</body>
+
+</html>

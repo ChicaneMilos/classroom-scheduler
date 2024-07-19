@@ -1,0 +1,118 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="home.css">
+    <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.13/index.global.min.js'></script>
+
+    <title>Projekat faks</title>
+</head>
+
+<body>
+    <header>
+        <div class="header">
+            <div class="logo" onclick="window.location='home.html'" style="cursor: pointer;">
+                <img src="photos/logo.png">
+            </div>
+            <div class="icon"></div>
+            <div class="userinfo">
+                <img class="user" src="photos/user.png"></img>
+                <div class="loggedUser"></div>
+                <img class="logout" src="photos/logout.png"></img>
+            </div>
+        </div>
+    </header>
+
+    <div class="mainContent">
+
+        <div class="settings">
+            <img class="openCP" src="photos/settings.png">
+        </div>
+        <div class="titleOnTop">
+            <h1>Amfiteatar</h1>
+        </div>
+
+        <div class="zaAmfi"></div>
+
+        <div class="popUp" style="display: none">
+            <div class="addClassroomForm" style="display: none;">
+                <div class="form">
+                    <h2>Dodaj ucionicu</h2>
+                    <h3></h3>
+                    <div class="user-box">
+                        <input class="add_classroomName" type="text" required>
+                        <label>Naziv prostorije</label>
+                    </div>
+
+                    <div class="user-box">
+                        <input class="add_chairRow" type="text" required>
+                        <label>Broj stolica po redu</label>
+                    </div>
+
+                    <div class="user-box">
+                        <input class="add_chairColumn" type="text" required>
+                        <label>Broj stolica po koloni</label>
+                    </div>
+
+                    <div class="CpButtons">
+                        <button class="addClassroomButton">Posalji</button>
+                        <button class="addcancelCPButton">Odustani</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="popUpQuestion" style="display: none;">
+                <div class="formQuestion" style="display: none;">
+                    <h2>Da li ste sigurni da zelite obrisete ucionica?</h2>
+                    <div class="CpButtons">
+                        <button class="buttonYes">Da</button>
+                        <button class="buttonNo">Ne</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="editClassroomFrom" style="display: none;">
+                <div class="form">
+                    <h2>Izmeni ucionicu</h2>
+                    <h3></h3>
+                    <div class="user-box">
+                        <input class="edit_classroom_name" type="text" required>
+                        <label>Naziv prostorije</label>
+                    </div>
+
+                    <div class="user-box">
+                        <input class="edit_chairRow" type="text" required>
+                        <label>Broj stolica po redu</label>
+                    </div>
+
+                    <div class="user-box">
+                        <input class="edit_chairColum" type="text" required>
+                        <label>Broj stolica po koloni</label>
+                    </div>
+
+                    <div class="CpButtons">
+                        <button class="editCtrlPanelButton">Posalji</button>
+                        <button class="cancelCtrlPanelButton">Odustani</button>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="controlPanel" style="display: none;">
+                <div class="form controlPanelForm">
+                    <h2>Kontrolna tabla</h2>
+                    <div class="classrooms"></div>
+                    <div class="CpButtons">
+                        <button class="addClassroom">Dodaj prostoriju</button>
+                        <button class="quitCP">Izadji</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="home.js"></script>
+</body>
+
+</html>

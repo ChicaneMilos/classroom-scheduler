@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|c:\\users\\pc\\source\\repos\\bookamphitheatre\\bookamphitheatre\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|solutionrelative:bookamphitheatre\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|c:\\users\\pc\\source\\repos\\bookamphitheatre\\bookamphitheatre\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|solutionrelative:bookamphitheatre\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|c:\\users\\pc\\source\\repos\\bookamphitheatre\\bookamphitheatre\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|solutionrelative:bookamphitheatre\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|c:\\users\\pc\\source\\repos\\bookamphitheatre\\bookamphitheatre\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|solutionrelative:bookamphitheatre\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|c:\\users\\pc\\source\\repos\\bookamphitheatre\\bookamphitheatre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|solutionrelative:bookamphitheatre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|c:\\users\\pc\\source\\repos\\bookamphitheatre\\bookamphitheatre\\models\\study.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|solutionrelative:bookamphitheatre\\models\\study.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|c:\\users\\pc\\source\\repos\\bookamphitheatre\\bookamphitheatre\\models\\studycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|solutionrelative:bookamphitheatre\\models\\studycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|c:\\users\\pc\\source\\repos\\bookamphitheatre\\bookamphitheatre\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|solutionrelative:bookamphitheatre\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|c:\\users\\pc\\source\\repos\\bookamphitheatre\\bookamphitheatre\\controllers\\classroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|solutionrelative:bookamphitheatre\\controllers\\classroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|c:\\users\\pc\\source\\repos\\bookamphitheatre\\bookamphitheatre\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE34927B-5D1D-44DB-BC91-712AA50380DB}|BookAmphitheatre\\BookAmphitheatre.csproj|solutionrelative:bookamphitheatre\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Models\\Classroom.cs",
+              "RelativeDocumentMoniker": "BookAmphitheatre\\Models\\Classroom.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Models\\Classroom.cs",
+              "RelativeToolTip": "BookAmphitheatre\\Models\\Classroom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:05:16.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BookAmphitheatre\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BookAmphitheatre\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T23:07:37.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Models\\UserContext.cs",
+              "RelativeDocumentMoniker": "BookAmphitheatre\\Models\\UserContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Models\\UserContext.cs",
+              "RelativeToolTip": "BookAmphitheatre\\Models\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T23:06:06.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BookAmphitheatre\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Models\\User.cs",
+              "RelativeToolTip": "BookAmphitheatre\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T23:01:03.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "BookAmphitheatre\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "BookAmphitheatre\\Controllers\\NoteController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T23:10:08.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\appsettings.json",
+              "RelativeDocumentMoniker": "BookAmphitheatre\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\appsettings.json",
+              "RelativeToolTip": "BookAmphitheatre\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T22:11:04.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Program.cs",
+              "RelativeDocumentMoniker": "BookAmphitheatre\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Program.cs",
+              "RelativeToolTip": "BookAmphitheatre\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T14:51:42.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Study.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Models\\Study.cs",
+              "RelativeDocumentMoniker": "BookAmphitheatre\\Models\\Study.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Models\\Study.cs",
+              "RelativeToolTip": "BookAmphitheatre\\Models\\Study.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:10:12.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudyContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Models\\StudyContext.cs",
+              "RelativeDocumentMoniker": "BookAmphitheatre\\Models\\StudyContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Models\\StudyContext.cs",
+              "RelativeToolTip": "BookAmphitheatre\\Models\\StudyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:11:28.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassroomController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Controllers\\ClassroomController.cs",
+              "RelativeDocumentMoniker": "BookAmphitheatre\\Controllers\\ClassroomController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BookAmphitheatre\\BookAmphitheatre\\Controllers\\ClassroomController.cs",
+              "RelativeToolTip": "BookAmphitheatre\\Controllers\\ClassroomController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:51:23.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
