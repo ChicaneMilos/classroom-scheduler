@@ -72,7 +72,7 @@ To install and view code or run this **demo project** locally, follow these step
 
 If you have any questions, feedback, or inquiries, please feel free to reach out to me at:
 
-- **Email:** [milosjokic16@gmail.com](mailto:milosjokic16@gmail.com)
+- **Email:** [jokic.milos@outlook.com](mailto:jokic.milos@outlook.com)
 
 ## Gallery
 
